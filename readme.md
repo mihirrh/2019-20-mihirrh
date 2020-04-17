@@ -1,6 +1,7 @@
 ![DMU Logo](/img/Mockups/dmu-logo.png)
 
 # **Visit Mihir's Wear Website University Project**
+Private DMU repo - https://github.com/ctec3905students/2019-20-mihirrh
 
 The aim of this project is to design and develop a website based on the chosen topic using the front-end web design languages such as HTML5, CSS3 and JS.
 
