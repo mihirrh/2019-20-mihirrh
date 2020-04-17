@@ -47,7 +47,7 @@ Website Developed by Mihir Haresh [P17173509]
 
 ### Google Maps API 
 
-[View](https://developers.google.com/maps/documentation/javascript/get-api-key)
+[View](https://developers.google.com/maps/documentation/javascript/get-api-key) REMOVED GOOGLE API ON PUBLIC REPO
 
 ### Responsive Navbar
 
