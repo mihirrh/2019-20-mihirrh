@@ -7,7 +7,7 @@ Visit the Website https://mihirrh.github.io/2019-20-mihirrh/index.html
 Private DMU repo - https://github.com/ctec3905students/2019-20-mihirrh
 Private DMU STUDENT Live HOST - https://ctec3905students.github.io/2019-20-mihirrh/
 
-The aim of this project is to design and develop a website based on the chosen topic using the front-end web design languages such as HTML5, CSS3 and JS.
+This project aims to design and develop a website based on the chosen topic using the front-end web design languages such as HTML5, CSS3 and JS.
 
 ## CTEC3905_1920_502 Front-End Web Development
 
@@ -84,12 +84,12 @@ Website Developed by Mihir Haresh [P17173509]
 
 ### Issue 1 - Title Hyperlink
 
-While conducting the user testing, one issue was identified which was to do with the flexbox adding product images, text and buy now button but had issue adding all 3 in one flexbox but issue was fixed
+While conducting the user testing, one issue was identified which was to do with the flexbox adding product images, text and buy now button but had an issue adding all 3 in one flexbox but the problem was fixed
 
 
 ### Issue 2 - Responsive Navbar
 
-Another issue found during the testing was the navigation bar for the website was not responsive and for mobile devices hamburger menu was linking all the pages together which lead to not let it open any of the pages.
+Another issue found during the testing was the navigation bar for the website was not responsive, and for mobile devices hamburger menu was linking all the pages together which lead to not let it open any of the pages.
 
 ![NavBar Resolved]
 
@@ -118,13 +118,13 @@ The website has been validated using the W3C's Markup Validation Service.
 
 ## Further Work
 
-My website was using simple google map iframe embedded version ti display map location but then after. I have implemented Google Map API to display current google map for the location and added code in JS.
+My website was using simple google map iframe embedded version to display map location. But then later. I have implemented Google Map API to view current google map for the location and added code in JS.
 
 
 ## Conclusion
 
-The front end web development module has been the most enjoyable module for me. as I have learnt interesting stuff about web technologies and managed to implement those technology into my current website for  assignment. Although error occured during the developement of the project. However, I managed to fix those errors and responsiveness of the website so it could be compatible for other devices such as mobile phones, iPad, Laptop and Desktop so users from other devices can browse easily.
+The front end web development module has been the most enjoyable module for me as I have learnt interesting stuff about web technologies and managed to implement those technologies into my current website for assignment. Although error occurred during the development of the project, however, I managed to fix those errors and responsiveness of the website so it could be compatible for other devices such as mobile phones, iPad, Laptop and Desktop so users from different devices can browse easily.
 
-Thanks to my tutors and lecturers for the learning content and even in this COVID-19 situtation with their online classes and help through emails I was able to clear out the confusion I had.
+Thanks to my tutors and lecturers for the learning content and even in this COVID-19 situtation with their online classes and help through emails, I was able to clear out the confusion I had.
 
 Thanks to Dr Graeme Stuart, Dr. Fania Raczinski, Dr Dave Everitt.
